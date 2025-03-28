@@ -1,8 +1,7 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+##Paso 0: Descargar la documentacion con los planes de prueba y todos los documentos que se pidio en la asignacion.
+En este folder se encuentra todo lo pedido en la asignacion de Teams, tambien el archivo html de nuestra calculadora para que lo pueda probar independientemente de un emulador
 
 ## Step 1: Start the Metro Server
 
