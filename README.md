@@ -1,6 +1,6 @@
 
 
-##Paso 0: Descargar la documentacion con los planes de prueba y todos los documentos que se pidio en la asignacion.
+## Paso 0: Descargar la documentacion con los planes de prueba y todos los documentos que se pidio en la asignacion.
 En este folder se encuentra todo lo pedido en la asignacion de Teams, tambien el archivo html de nuestra calculadora para que lo pueda probar independientemente de un emulador
 
 ## Step 1: Start the Metro Server
